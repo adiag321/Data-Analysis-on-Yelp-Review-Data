@@ -1,4 +1,4 @@
-# Data Analysis of Yelp Review Dataset
+# <p align = "center"> Data Analysis of Yelp Review Dataset</p>
 
 **Dataset Link: https://www.kaggle.com/yelp-dataset/yelp-dataset**
 
